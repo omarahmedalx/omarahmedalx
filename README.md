@@ -39,8 +39,5 @@
 
 ---
 
-### 🐍 Contribution Snake
-![snake animation](https://github.com/omarahmedalx/blob/output/github-contribution-grid-snake.svg)
 
----
 
