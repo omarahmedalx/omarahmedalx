@@ -7,19 +7,14 @@
 ### About me
 - 🏆 Bug bounty hunter – **Top 100 on Standoff**  
 - 🔭 Currently working on: Web application security, exploit research  
-- 🌱 Currently learning: Advanced network exploitation & malware analysis  
+- 🌱 Currently learning: Advanced network exploitation & Web3 testing   
 - 🎓 Certifications: **eJPT, eWAPT v2**  
 - 👯 Looking to collaborate on: Open-source security tools  
 - 💬 Ask me about: Web security, penetration testing, Linux, exploit dev  
-- 📫 Reach me: **[your.email@example.com]**
+  
 
 ---
 
-### 🌐 Socials
-[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
-[![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=white)](https://medium.com/@YOUR_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
 
 ---
 
@@ -37,16 +32,14 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&rank_icon=percentile)
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarahmedalx&show_icons=true&include_all_commits=true&rank_icon=percentile)
+![Streak](https://streak-stats.demolab.com?user=omarahmedalx)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarahmedalx&layout=compact)
 
 ---
 
 ### 🐍 Contribution Snake
-![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/omarahmedalx/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### ☕ Support
-<a href="https://www.buymeacoffee.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" /></a>
