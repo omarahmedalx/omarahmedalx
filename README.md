@@ -1,6 +1,6 @@
 # Hi there, I'm **Omar Ahmed** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Bug+Bounty+Hunter;Top+100+on+Standoff;Security+Researcher;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com?duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Bug+Bounty+Hunter;Top+100+on+Standoff;Security+Researcher;Open+Source+Contributor)](https://git.io/typing-svg](https://private-user-images.githubusercontent.com/168954568/352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcwMDkzNzcsIm5iZiI6MTc1NzAwOTA3NywicGF0aCI6Ii8xNjg5NTQ1NjgvMzUyMDUxOTE0LWUyNmQxZDZhLTMwZWUtNDg4ZS05MGNhLTExYjNhYTE4MDE0OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwNFQxODA0MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YzkxMmIyNWVmYjM3MGMxMjhhODhkNTgyNjFhOTlhZWJlMDZmZDViYTMxZWVmMmMyYWViMmM3ZmNjOWRlZGY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZXqEgylgTR81ZLM1Q5D5ovruBDqCm71HFU0lu3heqYE))
 
 > "Breaking things to make them stronger."
 
