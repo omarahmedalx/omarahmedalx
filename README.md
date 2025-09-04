@@ -39,7 +39,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake animation](https://github.com/omarahmedalx/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/omarahmedalx/omarahmedalx/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
