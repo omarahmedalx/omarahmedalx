@@ -1,6 +1,6 @@
 # Hi there, I'm **Omar Ahmed** 👋
 
-<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/af3a1b6c-9df8-4bcd-b6fe-c95f55aab69a" />
+![Hacker gif] (https://github.com/user-attachments/assets/af3a1b6c-9df8-4bcd-b6fe-c95f55aab69a)
 
 > "Breaking things to make them stronger."
 
