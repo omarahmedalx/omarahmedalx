@@ -3,7 +3,7 @@
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/91304264-bf7f-4ea2-a216-2581eead0e3c" />
 
 
-> "Breaking things to make them stronger."
+> "Where logic fails, I win."
 
 ### About me
 - 🏆 Bug bounty hunter – **Top 100 on Standoff**  
@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Networks](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 
 ---
 
