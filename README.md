@@ -1,4 +1,4 @@
-# Hi there, I'm **Omar Ahmed** 👋
+# Hello Hacker, I'm **Omar Ahmed** 👋
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/91304264-bf7f-4ea2-a216-2581eead0e3c" />
 
@@ -8,10 +8,10 @@
 ### About me
 - 🏆 Bug bounty hunter – **Top 100 on Standoff**  
 - 🔭 Currently working on: Web application security, exploit research  
-- 🌱 Currently learning: Advanced network exploitation & Web3 testing   
-- 🎓 Certifications: **eJPT, eWAPT v2**  
+- 🌱 Currently learning: Advanced Web and Mobile exploitation & Web3 testing   
+- 🎓 Certifications: **eJPT, eWAPT v2 , eWAPTx**  
 - 👯 Looking to collaborate on: Open-source security tools  
-- 💬 Ask me about: Web security, penetration testing, Linux, exploit dev  
+- 💬 Ask me about: Web security, penetration testing, Linux 
   
 
 ---
@@ -33,9 +33,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarahmedalx&show_icons=true&include_all_commits=true&rank_icon=percentile)
+
 ![Streak](https://streak-stats.demolab.com?user=omarahmedalx)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarahmedalx&layout=compact)
+
 
 ---
 
