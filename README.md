@@ -1,4 +1,4 @@
-# Hello Hacker, I'm **Omar Ahmed** 👋
+# Hello Hackers, I'm **Omar Ahmed** 👋
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/91304264-bf7f-4ea2-a216-2581eead0e3c" />
 
